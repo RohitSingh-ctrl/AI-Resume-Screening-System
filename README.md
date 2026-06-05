@@ -135,8 +135,9 @@ Final Score = (Cosine Similarity × 0.60
 📁 AI-Resume-Screening/
 │
 ├── AI_POWERED_RESUME_SCREENING.ipynb   ← main notebook
-├── Resume.csv                          ← dataset (upload to Colab)
-└── README.md                           ← this file
+├── README.md                           
+└── dataset/
+    └── Resume.zip                      ← dataset (upload to Colab)
 ```
 
 ---
